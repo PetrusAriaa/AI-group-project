@@ -1,4 +1,5 @@
 /Datasets/*.csv
 /Datasets/*.txt
+/Datasets/*.data
 .vscode
 cache/*.txt
